@@ -2,6 +2,9 @@
 # VShop Microservices
 
 O VShop Microservices é um projeto de comércio eletrônico desenvolvido utilizando arquitetura de microsserviços. Ele oferece uma plataforma escalável e modularizada para a construção de uma loja virtual.
+Este README fornece uma visão geral do projeto, instruções para configuração e execução, tecnologias utilizadas e informações sobre como contribuir e a licença do projeto. Certifique-se de substituir os detalhes conforme necessário para refletir com precisão o seu projeto. 
+
+
 
 ## Visão Geral
 
@@ -54,7 +57,6 @@ Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou cor
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
 
-Este README fornece uma visão geral do projeto, instruções para configuração e execução, tecnologias utilizadas e informações sobre como contribuir e a licença do projeto. Certifique-se de substituir os detalhes conforme necessário para refletir com precisão o seu projeto.
-```
+Agradecimentos ao Macorrati.
+https://youtube.com/playlist?list=PLJ4k1IC8GhW1UtPi9nwwW9l4TwRLR9Nxg&si=9MCyvh5grdjR0-NX
