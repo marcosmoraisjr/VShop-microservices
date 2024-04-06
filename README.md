@@ -57,3 +57,4 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](
 ```
 
 Este README fornece uma visão geral do projeto, instruções para configuração e execução, tecnologias utilizadas e informações sobre como contribuir e a licença do projeto. Certifique-se de substituir os detalhes conforme necessário para refletir com precisão o seu projeto.
+```
