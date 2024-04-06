@@ -1,6 +1,4 @@
-Shop-microservices:
 
-```
 # VShop Microservices
 
 O VShop Microservices é um projeto de comércio eletrônico desenvolvido utilizando arquitetura de microsserviços. Ele oferece uma plataforma escalável e modularizada para a construção de uma loja virtual.
