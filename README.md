@@ -1,4 +1,4 @@
-Claro! Aqui está um exemplo de um README em Markdown para o projeto VShop-microservices:
+Shop-microservices:
 
 ```
 # VShop Microservices
